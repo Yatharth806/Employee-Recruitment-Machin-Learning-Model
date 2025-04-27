@@ -85,7 +85,7 @@ def histogram(df, col):
     axes[0].set_title(f"Histogram of {col}")
 
     # Plot the second histogram
-    sns.kdeplot(data=df, x='satisfaction_level', y='last_evaluation', hue='left', shade=True, ax=axes[1])
+    sns.kdeplot(data=df, x='satisfaction_level', y='last_evaluation', hue='left', fill=True, ax=axes[1])
     axes[1].set_title("Kernel Density Estimation")
 
     plt.tight_layout()  # Adjust the layout to prevent overlapping
