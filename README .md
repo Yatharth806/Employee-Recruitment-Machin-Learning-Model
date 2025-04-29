@@ -29,6 +29,15 @@ Machine learning algorithms automate various aspects of the recruitment process,
 # Increased Accuracy:
 Machine learning models can predict job placements with a high degree of accuracy, reducing the risk of hiring unsuitable candidates and improving overall workforce quality.
 
+# How to use?
+  1.Clone the repository
+  2.Install the required packages in "requirements.txt" file.
+  Some packages are:
+  numpy
+  pandas
+  scikit-learn
+  3.Run the "application.py" file And you are good to go.
+
 # Conclusion:
 The "Employee Recruitment Machine Learning | Job Placement Python | HR Talent Acquisition System Python" project exemplifies the transformative power of machine learning in HR management. By leveraging data-driven insights, businesses can optimize their recruitment processes, identify top talent more effectively, and ultimately drive organizational success. As technology continues to evolve, embracing machine learning in HR practices will become increasingly essential for staying competitive in today's dynamic business landscape.
 
