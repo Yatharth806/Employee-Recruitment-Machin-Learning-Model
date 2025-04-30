@@ -45,9 +45,9 @@ Machine learning models can predict job placements with a high degree of accurac
    git clone https://github.com/Yatharth806/Employee-Recruitment-Machin-Learning-Model
    cd employee recruiter 
 2. **Create a Virtual Environment**
-   -      Create a virtual environment to isolate the project dependencies:
+     -   Create a virtual environment to isolate the project dependencies:
 
-         ```python3.12 -m venv .venv ```
+   -     python3.12 -m venv .venv 
 3. **Activate the Virtual Environment**
 -  Activate the virtual environment:
 
@@ -56,14 +56,12 @@ Machine learning models can predict job placements with a high degree of accurac
       On Windows
 -      .venv\Scripts\activate 
 4. **Install Dependencies**
-Install the required dependencies of "requirement.txt":
-``` pip install -r requirements.txt ```
+-  Install the required dependencies of "requirement.txt":
+ -     pip install -r requirements.txt 
 5. **Run the Application**
-Run the application or scripts as needed:
-``` python app.py ```
-6. **Deactivate the Virtual Environment**
-When you're done, deactivate the virtual environment:
-```deactivate ```
+-   Run the application or scripts as needed:
+-     python app.py 
+
 Project Structure
 .venv/: Virtual environment folder (excluded from version control).
 requirements.txt: File containing the list of dependencies (if applicable).
