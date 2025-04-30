@@ -62,10 +62,10 @@ Machine learning models can predict job placements with a high degree of accurac
 -   Run the application or scripts as needed:
 -     python app.py 
 
-Project Structure
-.venv/: Virtual environment folder (excluded from version control).
-requirements.txt: File containing the list of dependencies (if applicable).
-<other-files>: Add descriptions for other files or folders as needed.
+**Project Structure**
+-   .venv/: Virtual environment folder (excluded from version control).
+-   requirements.txt: File containing the list of dependencies (if applicable).
+-   <other-files>: Add descriptions for other files or folders as needed.
 
 
 # How to use?
