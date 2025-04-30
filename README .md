@@ -43,7 +43,7 @@ Machine learning models can predict job placements with a high degree of accurac
    Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Yatharth806/Employee-Recruitment-Machin-Learning-Model
-   cd employee recruiter 
+   cd Employee-Recruitment-Machin-Learning-Model
 2. **Create a Virtual Environment**
      -   Create a virtual environment to isolate the project dependencies:
 
@@ -57,7 +57,9 @@ Machine learning models can predict job placements with a high degree of accurac
 -      .venv\Scripts\activate 
 4. **Install Dependencies**
 -  Install the required dependencies of "requirement.txt":
- -     pip install -r requirements.txt 
+ -     pip install -r requirements.txt
+- if any error occurs then install this dependencies separately 
+-     pip install flask pandas seaborn scikit-learn matplotlib numpy
 5. **Run the Application**
 -   Run the application or scripts as needed:
 -     python app.py 
@@ -68,17 +70,7 @@ Machine learning models can predict job placements with a high degree of accurac
 -   <other-files>: Add descriptions for other files or folders as needed.
 
 
-# How to use?
-  1.Clone the repository
-  2. it is necessary to have python install
-  3.Install the required packages in "requirements.txt" file.
-  Some packages are:
-  numpy
-  pandas
-  scikit-learn
-  seaborn
-  sklearn
-  3.Run the "app.py" file And you are good to go.
+
 
 # Conclusion:
 The "Employee Recruitment Machine Learning | Job Placement Python | HR Talent Acquisition System Python" project exemplifies the transformative power of machine learning in HR management. By leveraging data-driven insights, businesses can optimize their recruitment processes, identify top talent more effectively, and ultimately drive organizational success. As technology continues to evolve, embracing machine learning in HR practices will become increasingly essential for staying competitive in today's dynamic business landscape.
