@@ -29,10 +29,51 @@ Machine learning algorithms automate various aspects of the recruitment process,
 # Increased Accuracy:
 Machine learning models can predict job placements with a high degree of accuracy, reducing the risk of hiring unsuitable candidates and improving overall workforce quality.
 
+
+
+## Prerequisites
+
+- Python 3.12 installed on your system.
+- A virtual environment tool such as `venv` or `virtualenv`.
+- An IDE or text editor (e.g., Visual Studio Code or PyCharm).
+
+## Setup Instructions
+
+1. **Clone the Repository**  
+   Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Yatharth806/Employee-Recruitment-Machin-Learning-Model
+   cd employee recruiter 
+2. Create a Virtual Environment
+Create a virtual environment to isolate the project dependencies:
+
+```python3.12 -m venv .venv ```
+3. Activate the Virtual Environment
+Activate the virtual environment:
+
+On macOS/Linux:
+``` source .venv/bin/activate ```
+On Windows
+``` .venv\Scripts\activate ```
+4.Install Dependencies
+Install the required dependencies of "requirement.txt":
+``` pip install -r requirements.txt ```
+5.Run the Application
+Run the application or scripts as needed:
+``` python app.py ```
+6.Deactivate the Virtual Environment
+When you're done, deactivate the virtual environment:
+```deactivate ```
+Project Structure
+.venv/: Virtual environment folder (excluded from version control).
+requirements.txt: File containing the list of dependencies (if applicable).
+<other-files>: Add descriptions for other files or folders as needed.
+
+
 # How to use?
   1.Clone the repository
-  3. it is necessary to have python install
-  2.Install the required packages in "requirements.txt" file.
+  2. it is necessary to have python install
+  3.Install the required packages in "requirements.txt" file.
   Some packages are:
   numpy
   pandas
