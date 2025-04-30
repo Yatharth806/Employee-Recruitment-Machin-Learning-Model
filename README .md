@@ -47,13 +47,13 @@ Machine learning models can predict job placements with a high degree of accurac
 2. **Create a Virtual Environment**
    -      Create a virtual environment to isolate the project dependencies:
 
-```python3.12 -m venv .venv ```
+         ```python3.12 -m venv .venv ```
 3. **Activate the Virtual Environment**
-Activate the virtual environment:
+-      Activate the virtual environment:
 
-On macOS/Linux:
+-     On macOS/Linux:
 ``` source .venv/bin/activate ```
-On Windows
+-     On Windows
 ``` .venv\Scripts\activate ```
 4. **Install Dependencies**
 Install the required dependencies of "requirement.txt":
